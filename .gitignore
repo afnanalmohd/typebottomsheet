@@ -41,3 +41,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Exclude iOS and Android folders from being pushed to the remote repository
+ios/
+android/
